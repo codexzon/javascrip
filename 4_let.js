@@ -1,7 +1,7 @@
 
 
 let studentName = "Shivam";
-// let studentName = "Shivani";  let will raise an error 
+// let studentName = "Shivani";  let will raise an error  /  wht var cant raise an error
  studentEmail = "shivam@gmail.com";
 studentContact = "5994994959";
 
