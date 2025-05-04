@@ -48,4 +48,4 @@ if (personAge >= 18) {
 }
 if (personAge < 21) {
     console.log("you are not  eligible for licence");
-}
+} 
