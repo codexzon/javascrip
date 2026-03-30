@@ -9,7 +9,7 @@ student['age']=76;
 
 // console.log(student.age); // for single value run
 
-// console.log(student ["age"]);
+// console.log(student ["age"])
 
 console.log(student); 
 
