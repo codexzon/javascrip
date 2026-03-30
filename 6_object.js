@@ -11,6 +11,6 @@ student['age']=76;
 
 // console.log(student ["age"]);
 
-console.log(student);
+console.log(student); 
 
 
