@@ -37,3 +37,7 @@ console.log(str4.slice(6,14));
 console.log(str4.replace("Hello","Hey"));
 
 console.log(str4.replace("o","i"));
+
+njkdfndkgnjdfgn
+njkdfndkgnjdfgnkjndfgk
+g
